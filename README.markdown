@@ -1,6 +1,6 @@
 # Declarative Lookup Rollup Relationships (DLRS)
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=MBSCaesar&amp;repo=declarative-lookup-rollup-summaries">
+<a href="https://githubsfdeploy.herokuapp.com?owner=MBSCaesar;repo=declarative-lookup-rollup-summaries">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
