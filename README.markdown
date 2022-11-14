@@ -1,6 +1,9 @@
 # Declarative Lookup Rollup Relationships (DLRS)
 
-
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
 ## Solution Overview 
 Declarative Rollup Lookup Summaries (DLRS) is a sustainable open source community application that provides an admin-friendly declarative interface to generate and manage cross-object rollup summaries in your Salesforce org. 
 
